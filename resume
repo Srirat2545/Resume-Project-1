@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset = "UTF-8">
+    <title>Resume-Srirat</title>
+</head>
+<body>
+    <header><h1>Resume</h1></header>
+      
+        <img src="photo.jpg" width = "100" alt="Srirat">
+        <h2>Summary</h2>
+        <p>Have a nice day ,Have a nice fun</p>
+        <hr></hr>
+      
+        <h2>Education</h2>
+        <ul>
+            <li>ratchamontri (tertiary to secondary education)</li>
+            <li>Chetuphon (Vocational Certificate)</li>
+            <li>rajamangala university of technology krungthep (Bachelor's degree)</li>      
+        </ul>
+        <hr></hr>
+     
+        <h2>Work Experience</h2>
+        </ul>
+           <h3>Business owners partner selling second-hand clothes (2022-2023)</h3>
+            </ul>
+              <li>Supply goods</li>
+              <li>Salesperson</li>
+              <li>Delivery</li>
+            </ul>
+        </ul>
+        <hr></hr>
+
+        <h2>Skills</h2>
+        <ul>
+          <li>Microsoft Office: ⭐️⭐️⭐️⭐️⭐️ </li>
+          <li>AutoCAD: ⭐️⭐️⭐️⭐️</li>
+        </ul>
+        <hr></hr>
+      
+        <h2>Awards and Certifications</h2>
+        </ul>
+              <li>Employee of the Month - Assistant Technician, King Mongkut's University of Technology Thonburi, Faculty of Mechanical Engineering (January 2020)</li>
+        </ul>
+        <hr></hr>
+      
+        <h2>Other</h2>
+      </ul>
+        <li><a href="hobbies.html">My Hobbies</li>
+        <li><a href = "contact.html">Contact</a></li>
+      </ul>
+
+      <footer>
+        <p>&copy; Srirat | All rights reserved</p>
+      </footer>
+    </body>
+    </html>
